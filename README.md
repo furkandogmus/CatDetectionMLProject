@@ -1,4 +1,4 @@
-# Cat or Not Cat ML Project
+# Cat Detection ML Project
 
 This repository contains a simple machine learning project to classify images as either cat or non-cat. The project is implemented using a two-layer neural network.
 
